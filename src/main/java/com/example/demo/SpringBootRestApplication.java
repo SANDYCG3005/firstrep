@@ -12,6 +12,7 @@ public class SpringBootRestApplication {
 		System.out.println("Hi");
 		System.out.println("Bye");
 		System.out.println("Hi from GitHub");
+		System.out.println("Hello from GitHub");
 	}
 
 }
