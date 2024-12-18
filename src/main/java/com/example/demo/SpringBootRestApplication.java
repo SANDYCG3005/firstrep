@@ -10,6 +10,7 @@ public class SpringBootRestApplication {
 		SpringApplication.run(SpringBootRestApplication.class, args);
 		System.out.println("Hello");
 		System.out.println("Hi");
+		System.out.println("Bye");
 	}
 
 }
